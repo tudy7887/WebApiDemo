@@ -1,6 +1,14 @@
 **Web API Demo**
 
-- APIs Overview
+- App Diagram
+- ![Web API Demo Diagram](https://github.com/user-attachments/assets/1a47e4ac-9f4f-4fe7-8ef8-ea0beab083c9)
+- MSSQL Database migration with Entity Framework
+- Role Based Authentication with JWT Token
+- Business Logic Layer
+- Repository Pattern With Dependency Injection
+- Data Mapping
+
+**APIs Overview**
 ![WebApi1](https://github.com/user-attachments/assets/bb31c5ce-2c7f-477a-bac8-992d47eb12ed)
 
 **Authentication Example:**
